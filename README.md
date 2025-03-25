@@ -6,6 +6,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- # Hello World
+- Hi EveryOne!
+
+## This is an `<h1>` header, which is the largest
+### This is an `<h2>` header
+#### This is an `<h6>` header, which is the smallest
+
 <!---
 pjyoti-design/pjyoti-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
